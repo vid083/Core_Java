@@ -48,7 +48,7 @@ public class Student {
 		System.out.println("Address: " +address);
 
 		// to print
-/*public String tostring(){
+/*public String toString(){
 String S = "ID: " +id + "name :" +name+ "address : " +address;
 return s;  */
 	}
