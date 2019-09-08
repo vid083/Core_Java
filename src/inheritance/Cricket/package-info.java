@@ -5,4 +5,4 @@
  * @author user
  *
  */
-package Static_keyword;
+package inheritance.Cricket;
